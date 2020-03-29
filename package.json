@@ -1,0 +1,24 @@
+{
+  "author": "Craidencool",
+  "name": "react-native-json-form",
+  "version": "0.0.1",
+  "description": "Lets you integrate forms in react seamlessly.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "forms",
+    "formik",
+    "react-native-forms"
+  ],
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "formik": "^2.1.4",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-native": "^0.62.0"
+  }
+}
